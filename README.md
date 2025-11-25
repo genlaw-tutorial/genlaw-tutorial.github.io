@@ -21,14 +21,3 @@ python -m http.server 8000
 ```
 
 Then visit [http://localhost:8000](http://localhost:8000) in your browser.
-
-## GitHub Pages
-
-1. Push this repository to GitHub.
-2. In **Settings → Pages**, choose:
-
-   * Source: `main` (or `deploy`) branch
-   * Folder: `/ (root)`
-3. Save. The site will be available at `https://<user>.github.io/<repo>/` once built.
-
-Update `index.html` as the tutorial schedule, materials, and links are finalized.
