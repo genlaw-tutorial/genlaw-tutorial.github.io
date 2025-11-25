@@ -161,6 +161,19 @@ h1, h2, h3, h4 {
   color: var(--text-main);
 }
 
+.hero-meta-prominent {
+  font-size: 1.15rem;
+  font-weight: 500;
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.hero-meta-prominent strong {
+  color: var(--accent-strong);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
